@@ -7,6 +7,6 @@
 #### 🙋 Good luck !
 #### 😡  PS : la prochaine fois vous ne prendrez pas notre nom et logos
 
-| Developer |
+| Developer | 
 | ------- |
 | 😍 [Unishadow](https://github.com/Unishadoweuh) & [MasterLua](https://github.com/MasterLua) |
